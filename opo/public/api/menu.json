@@ -1,0 +1,57 @@
+{
+    "code": 200,
+    "data": [
+        {
+            "title": "OA系统",
+            "path": "/",
+            "icon": "windows",
+            "children": [
+                {
+                    "title": "后台首页",
+                    "path": "/",
+                    "path_title":"OA系统/后台首页"
+                },
+                {
+                    "title": "公司公告",
+                    "path": "/notice",
+                    "path_title":"OA系统/公司公告"
+                }
+            ]
+        },
+        {
+            "title": "考勤管理",
+            "path": "/gl",
+            "icon": "form",
+            "children": [
+                {
+                    "title": "我的考勤",
+                    "path": "/gl/myovertime",
+                    "path_title":"考勤管理/我的考勤"
+                },
+                {
+                    "title": "员工考勤",
+                    "path": "/gl/mychecking",
+                    "path_title":"考勤管理/员工考勤"
+                }
+            ]
+        },
+        {
+            "title": "工资计算",
+            "path": "/js",
+            "icon": "red-envelope",
+            "children": [
+                {
+                    "title": "我的工资",
+                    "path": "/js/money",
+                    "path_title":"工资计算/我的工资"
+                },
+                {
+                    "title": "员工工资",
+                    "path": "/js/bonus",
+                    "path_title":"工资计算/员工工资"
+                }
+            ]
+        }
+
+    ]
+}

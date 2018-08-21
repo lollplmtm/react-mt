@@ -1,0 +1,14 @@
+
+{
+    "code": 200,
+    "data": {
+        "user": [
+            { 
+                "id": 1,
+                "username": "aa",
+                "password": "123",
+                "level":1
+            }
+        ]
+    }
+}
